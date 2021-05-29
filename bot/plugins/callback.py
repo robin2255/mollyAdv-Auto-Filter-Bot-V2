@@ -1619,7 +1619,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "Close 🔐", callback_data="close"
+                    "𝑪𝑳𝑶𝑺𝑬 🔐", callback_data="close"
                 )
         ]
     ]
